@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+html, body {
+	margin:0;
+	background-color:#d0d0d0;
+}
+
+#ui-container {
+	margin:auto;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	background-color:#ffffff;
+	border:1px solid #808080;
+	box-shadow:10px 10px 1px 0px #c0c0c0;
+}
+
+#info-container {
+	margin:auto;
+	top:0;
+	bottom:0;
+	padding:20px;
+}
+
+#bpmtitle {
+	font-family: 'Open Sans', sans-serif;
+	color:#808080;
+	font-size:20px;
+	display:inline-block;
+}
+
+#bpm {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color:#808080;
+	font-size:100px;
+	display:inline-block;
+}
+
+.otherinfo {
+	font-family: 'Open Sans', sans-serif;
+	color:#d0d0d0;
+	font-size:20px;
+}
+
+#graph {
+	border-left:1px solid #808080;
+	background-color:#f0f0f0;
+}
